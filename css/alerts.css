@@ -1,0 +1,10 @@
+.alert {
+  @apply p-4;
+  @apply lg:px-8;
+  @apply rounded-md;
+  @apply items-center;
+  @apply flex;
+}
+.alert-icon {
+  @apply h-8 w-8 inline-flex rounded-md items-center justify-center mr-2;
+}
